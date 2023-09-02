@@ -6,7 +6,7 @@
 // const client = new speech.SpeechClient({
 //   version: 'v2beta1',
 //   credentials: {
-//     private_key: "AIzaSyC1V3okBv1C0h1oNCmWUKBjvmkxpIt-AVg",  // Load your Google Cloud credentials as before
+//     private_key: "API_KEY",  // Load your Google Cloud credentials as before
 //   }
 // });
 
