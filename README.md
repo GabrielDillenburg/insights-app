@@ -1,1 +1,1 @@
-## Real Time transcriptor app in node.js! This is hude!
+# Real Time transcriptor! 
