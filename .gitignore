@@ -4,5 +4,4 @@ dist
 coverage
 globalConfig.json
 globalConfig
-data
 test.js
