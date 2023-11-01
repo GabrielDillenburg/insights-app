@@ -1,0 +1,5 @@
+export * from '../../protocols'
+export * from '../../protocols/email-validator'
+export * from '../../../domain/usecases/make-transcription'
+export * from '../../../domain/model/transcription'
+export * from '../../protocols/validation'
